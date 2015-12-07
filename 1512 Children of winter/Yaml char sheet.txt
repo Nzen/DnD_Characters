@@ -1,0 +1,72 @@
+
+Yaml Cobb	Human; Warlock
+
+Armor Class	13
+Hit points	33 (rolled 23; con bonus 10)
+Speed
+initiative	+1
+
+Stat	Total	modify	rolled	human+	lvl 4
+Str 	12		1		11		1		
+Dex 	13		1		12		1		
+Con 	14		2		12		1		1
+Int 	15		2		14		1		
+Wis 	13		1		12		1		
+Cha 	19		4		17		1		1
+Proficiencies
+Level bonus
+Saving throws
+Skills	(warlock) Arcana, Investigation, (artisan) Insight, Persuasion
+Weapons	hammer
+Tools
+Languages
+
+Background	Guild Artisan: Cobbler
+Languages	Common, (human) Dwarven, (artisan) Gnomish
+Personality
+Ideal
+Bond
+Flaw
+
+Human Features
+
+Warlock Features
+Patron: Great Old One
+Boon: Tome filled with {Spare the dying, mending, light}
+
+Known Spells
+
+
+Invocations
+Book of Ancient Secrets, adds {Identify, Unseen-Servant} as rituals
+
+Equipment
+(artisan)
+5lb 	0	cobbler tools
+0		0	guild membership letter
+4lb 	0	traveler clothes
+0		-15 coin purse
+(warlock)
+			arcane focus: rod
+nnlb 	0	hammer (simple weapon)
+--- 	0	scholar pack (itemized next)
+nnlb	0	Book of Shadows
+(scholar pack)
+nnlb	0	backpack
+nnlb	0	book of lore
+nnlb	0	ink
+nnlb	0	ink pen
+nnlb	0	10 sheets of parchment
+nnlb	0	bag of sand (um what for?)
+nnlb	0	small knife
+(bought)
+		45	studded leather armor (AC 12 + dex)
+7lb 	1	bedroll
+20lb	5	10 rations
+0		150	rare inks for Book of Shadows
+2		2	2 scroll cases
+(treasure loot)
+potion of animal friendship
+oil of etherealness
+alchemy jug (fills with selected liquid)
+

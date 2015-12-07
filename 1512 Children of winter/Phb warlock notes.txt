@@ -1,0 +1,1562 @@
+
+C lass F e atu r es
+As a warlock, you gain the following class features.
+Hit P o in t s
+Hit Dice: 1d8 per warlock level
+Hit Points at 1st Level: 8 + your Constitution m odifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution m odifier per warlock level after 1st
+
+Proficiencies
+Armor: Light armor
+Weapons: Simple weapons
+Tools: None
+Saving Throws: Wisdom, Charism a
+Skills: Choose two skills from Arcana, Deception , History, Intimidation, Investigation, Nature, and Religion
+Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+* (a) a light crossbow and 20 bolts or (b) any simple
+w eap on
+* (a) a component pouch or (b) an arcane focu s
+* (a) a scholar’s pack or (b) a dungeoneer’s pack
+* Leather armor, any simple weapon, and two daggers
+
+Warlock table
+Level. Proficiency Bonus. Cantrips Known. Spells Known. Spell Slots. Slot Level. Invocations Known.
+Lv	PB	Ck	Sk	Ss	Sl	Ik	Feature
+1	2	2	2	1	1	0	~Awakened Mind
+2	2	2	3	2	1	2	(none)
+3	2	2	4	2	2	2	Pact Boon: Tome
+4	2	3	5	2	2	2	Ability Score +2
+5	3	3	6	2	3	3	(none)
+6	3	3	7	2	3	3	~Entropic Ward
+7	3	3	8	2	4	4	(none)
+8	3	3	9	2	4	4	Ability Score +2
+9	4	3	A	2	5	5	(none)
+A	4	4	A	2	5	5	Arcanum (6th lvl)
+B	4	4	B	3	5	6	~Thought Shield
+C	4	4	B	3	5	6	Arcanum (8th lvl)
+D	5	4	C	3	5	6	Ability Score +2
+E	5	4	C	3	5	7	Arcanum (9th lvl)
+F	5	4	D	3	5	7	(none)
+
+Otherworldly Patron
+At 1st level, you have struck a bargain with an otherworldly being of your choice: the Great Old One.
+Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
+
+Cantrips
+You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table. A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance.
+
+Spell Slots
+The warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the sam e level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+For exam ple, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell thunderwave, you must spend one of those slots, and you cast it as a 3rd-level spell.
+
+Spells Known of 1st Level and Higher
+At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+The Spells known column of the warlock table sh ow s when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what’s shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+Additionally, when you gain a level in this class, you can choose on e of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
+Spellcasting
+
+Spell save D C = 8 + your proficiency bonus + your Charisma modifier
+Spell attack modifier = your proficiency bonus + your Charisma modifier
+
+Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn’t incapacitated
+
+Spellcasting Focus
+You can use an arcane focus (found in chapter 5) as a spellcasting focu s for your warlock spells.
+
+Pact Boon
+* Pact of the Tome
+Your patron gives you a grimoire called a book of Shadows. When you gain this feature, choose three cantrips from any class’s spell list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known.
+If you lose your book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+
+Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability sco re of your c h oice by 2, or you can in crease two ability scores of your choice by 1. As normal, you can't in crease an ability score above 20 using this feature.
+
+* Awakened Mind
+Starting at 1st level, your alien kn ow led ge gives you the ability to touch the m inds of other creatures. You can com m u n icate telepathically with any creature you can se e w ithin 30 feet of you. You don ’t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least on e language.
+
+* Entropic Ward
+At 6th level, you learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
+Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+Eldritch Invocations
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
+
+* Armor of Shadows
+You can cast mage armor on yourself at will, without expending a spell slot or material com pon ents
+
+* Devil’s Sight
+You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
+* Eldritch Sight
+You can cast detect magic at will, without expending a spell slot.
+
+* The gaze of two Minds
+You can use your action to touch a willing hum anoid and perceive through its senses until the end of your next turn. [...]
+
+* Beast Speech
+You can cast speak with animals at will, without expending a spell slot.
+
+* Beguiling Influence
+You gain proficiency in the Deception and Persuasion skills.
+
+* Eyes of the rune keeper
+you can read all writing
+
+* Fiendish Vigor
+You can cast false life (as 1st level) on yourself at will, without expending a spell slot or material components.
+
+* Mask of Many Faces
+You can cast disguise self at will, without expending a spell slot or material components.
+
+* Misty visions
+You can cast silent image at will, without expending a spell slot or material components.
+
+* Thief of Five Fates
+You can cast bane once using a warlock spell slot. You can’t do so again until you finish a long rest.
+
+* Agonizing Blast
+Prerequisite: eldritch blast cantrip
+When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
+
+* Eldritch Spear
+Prerequisite: eldritch blast cantrip
+When you cast eldritch blast, its range is 300 feet
+
+* Repelling Blast
+Prerequisite: eldritch blast cantrip
+When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+
+* Book of Ancient Secrets
+Prerequisite: Pact of the Tome feature
+You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list. The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+Rituals
+Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
+To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
+Ritual caster feat
+If you come across a spell in written form, such as a magical spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+All 1st level ritual spells:
+Alarm, comprehend-languages, detect-magic, detect-poison/disease, find-familiar, identify, illusory-script, purify-food/drink, speak-with-animals, tensors-floating-disc, unseen-servant
+
+* Mire the mind
+Prereq: 5th
+Cast confusion once using a warlock spell slot. Renewed on finish a long rest.
+
+* One with shadows
+Prerequisite: 5th level
+When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
+
+* Bewitching Whispers
+Prereq: 7th
+Cast compulsion once using a warlock spell slot. Renewed on finish a long rest.
+
+* Dreadful Word
+Prereq: 7th
+Cast confusion once using a warlock spell slot. Renewed on finish a long rest.
+
+* Sculptor of flesh
+Prereq: 7th
+Cast polymorph once using a warlock spell slot. Renewed on finish a long rest.
+
+* Minions of chaos
+Prereq: 9th
+Cast conjure elemental once using a warlock spell slot. Renewed on finish a long rest.
+
+* Otherworldly leap
+Prereq: 9th
+You can cast jump on yourself at will, without expending a spell slot or material components.
+
+* whispers of the grave
+Prereq: 9th
+You can cast speak with dead on yourself at will, without expending a spell slot or material components.
+
+The Great Old One Expanded Spell List
+1st	dissonant whispers, Tasha's hideous laughter
+2nd	detect thoughts, phantasmal force
+3rd	clairvoyance, sending
+4th	dominate beast, Evard’s black tentacles
+5th	dominate person, telekinesis
+
+Warlock Spells
+
+Cantrips (0 Level)
+Blade Ward
+Chill Touch
+Eldritch Blast
+Friends
+Mage Hand
+Minor Illusion
+Poison Spray
+Prestidigitation
+True Strike
+
+1st Level
+Armor of Agathys
+Arms of Hadar
+Charm Person
+Comprehend Languages
++ dissonant whispers
+Expeditious Retreat
+Hellish Rebuke
+Hex
+Illusory script
+Protection from evil and good
++ Tasha's hideous laughter
+Unseen servant
+
+2nd level
+cloud of daggers
+crown of madness
+Darkness
++ detect thoughts
+Enthrall
+Hold Person
+Invisibility
+Mirror Image
+Misty Step
++ phantasmal force
+Ray of Enfeeblement
+Shatter
+Spider Climb
+suggestion
+
+3rd level
++ clairvoyance
+counterspell
+dispel magic
+fear
+fly
+gaseous form
+hunger of hadar
+magic circle
+major image
+remove curse
++ sending
+tongues
+vampiric touch
+
+4th level
+banishment
+blight
+dimension door
++ dominate beast
++ Evard’s black tentacles
+hallucinatory terrain
+
+5th level
++ dominate person
+contact other plane
+dream
+hold monster
+scrying
++ telekinesis
+
+[6-9 unlocked through arcanum]
+
+# Descriptions #
+
+	Cantrips (0 Level)
+
+Blade Ward
+Casting Time: 1 action
+Range: S e lf
+Components: V, S
+Duration: 1 roundll slot. Renewed on fin
+You extend your hand and trace a sigil of w ardin g in the 
+air. Until the end of your next turn, you have resistance
+against bludgeoning, piercing, and slashing dam age
+dealt by w eap on attacks.
+
+Chill Touch
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: 1 round
+You create a ghostly, skeletal hand in the sp ace of a
+creature w ithin range. M ake a ranged spell attack
+against the creature to assail it w ith the chill of the
+grave. O n a hit, the target takes 1d8 n ecrotic dam age,
+and it ca n ’t regain hit points until the start of your next
+turn. Until then, the hand clings to the target.
+If you hit an undead target, it also has disadvantage on
+attack rolls against you until the end of your next turn.
+This sp ell’s dam age in creases by 1d8 when you reach
+5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+Eldritch Blast
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+A b ea m of crackling en ergy streaks tow ard a creature
+w ithin range. M ake a ran ged spell attack against the 
+target. On a hit, the target takes 1dlO force dam age.
+T h e spell creates m ore than one b ea m when you reach
+higher levels: two b ea m s at 5th level, three b ea m s at
+11th level, and four b ea m s at 17th level. You can direct
+the b ea m s at the sam e target or at different ones. M ake
+a separate attack roll for each beam .
+
+Friends
+Casting Time: 1 action
+Range: S e lf
+Components: S, M (a sm all am ount of m akeup applied
+to the face as this spell is cast)
+Duration: Concentration, up to 1 minute
+F or the duration, you have advantage on all Charism a
+ch eck s directed at on e creature of your choice that isn’t
+hostile tow ard you. W h en the spell ends, the creature
+realizes that you u sed m agic to influence its m o o d
+and b e c o m e s hostile tow ard you. A creature prone
+to violen ce m ight attack you. A n oth er creature might
+seek retribution in other w ays (at the D M ’s discretion),
+depending on the nature of your interaction w ith it.
+
+Mage Hand
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 m inute
+A spectral, floating hand appears at a point you c h o o s e
+w ithin range. T h e hand lasts for the duration or until
+you d ism iss it as an action. The hand van ish es if it is
+ever m ore than 30 feet away from you or if you cast
+this spell again.
+You can use your action to con trol the hand. You can
+u se the hand to m anipulate an object, open an u nlock ed
+d oor or container, stow or retrieve an item from an open
+container, or pou r the contents out of a vial. You can
+m ove the hand up to 30 feet each tim e you use it.
+The hand ca n ’t attack, activate m agic item s, or carry
+m ore than 10 pounds.
+
+Minor Illusion
+Casting Time: 1 action
+Range: 30 feet
+Components: S, M (a bit of fleece)
+Duration: 1 minute
+You create a sou n d or an im age of an object w ithin
+range that lasts for the duration. T h e illusion also ends if
+you dism iss it as an action or cast this spell again.
+If you create a sou n d, its volum e can range from a
+w h isper to a scream . It can be your voice, som eon e
+else’s voice, a lion’s roar, a beating of drum s, or any
+other sou n d you c h oose. T h e sou n d continu es unabated
+throughout the duration, or you can m ake discrete
+sou n d s at different tim es before the spell ends.
+If you create an im age of an object—such as a chair,
+m uddy footprints, or a sm all chest—it must be no larger
+than a 5-foot cube. T h e im age ca n ’t create sou n d, light,
+sm ell, or any other sen sory effect. P hysical interaction
+w ith the im age reveals it to be an illusion, b eca u se
+things can pass through it.
+If a creature u ses its action to exam ine the sou n d or
+im age, the creature can determ ine that it is an illusion
+with a su ccessfu l Intelligence (Investigation) ch eck
+against your spell save DC. If a creature discern s the
+illusion for w hat it is, the illusion becomes faint to
+the creature.
+
+Poison Spray
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: Instantaneous
+You extend your hand tow ard a creature you can see
+w ithin range and project a pu ff of n oxiou s gas from your
+palm . T h e creature must su cce e d on a Constitution
+saving th row or take 1d12 p oison dam age.
+T h is sp ell’s dam age in creases by 1d12 when you reach
+5th level (2 d 12), 11th level (3 d 12), and 17th level (4 d 12).
+
+Prestidigitation
+Casting Time: 1 action
+Range: 10 feet
+Com ponents: V, S
+Duration: Up to 1 hour
+T h is spell is a m in or m agical trick that n ovice
+sp ellcasters use for practice. You create one of the
+follow in g m agical effects w ithin range:
+* You create an instantaneous, h arm less sen sory effect,
+su ch as a sh ow er of sparks, a puff of w ind, faint m usi­
+ca l notes, o r an od d odor.
+* You instantaneously light or snuff out a candle, a
+torch, or a sm all cam pfire.
+* You instantaneously clean or soil an object n o larger
+than 1 cu b ic foot.
+* You chill, w arm , or flavor up to 1 cu bic foot of nonliv­
+ing material for 1 hour.
+* You m ake a color, a sm all mark, or a sym bol appear
+on an object or a su rface for 1 hour.
+* You create a n onm agical trinket or an illusory im age
+that can fit in your hand and that lasts until the end o f
+y ou r next turn.
+If you cast this spell multiple tim es, you can have up to
+three of its non-instantaneous effects active at a time,
+and you can dism iss such an effect as an action.
+
+True Strike
+Casting Time: 1 action
+Range: 3 0 feet
+Components: S
+Duration: Concentration, up to 1 round
+You extend your hand and point a finger at a target in
+range. Your m agic grants you a brief insight into the target’s defen ses. On your next turn, you gain advantage
+on your first attack roll against the target, provided that this spell hasn ’t ended.
+
+	1st Level
+
+Armor of Agathys
+abjuration
+Casting Time: 1 action
+Range: S e lf
+Components: V, S, M (a cup of water)
+Duration: 1 hour
+A protective m agical force su rrou nds you, m anifesting
+as a spectral frost that covers you and your gear.
+You gain 5 tem porary hit points for the duration. If a
+creature hits you w ith a m elee attack w hile you have
+th ese hit points, the creature takes 5 cold dam age.
+A t H igher L evels. W h en you cast this spell u sing a
+spell slot of 2nd level or higher, both the tem porary hit
+points and the cold dam age in crease by 5 for each slot
+level above 1st.
+
+Arms of Hadar
+Casting Time: 1 action
+Range: S e lf (10-foot radius)
+Components: V, S
+Duration: Instantaneous
+You invoke the p ow er of Hadar, the D ark Hunger.
+Tendrils of dark en ergy erupt from you and batter all
+creatu res w ithin 10 feet of you. E ach creature in that
+area must m ake a Strength saving throw. O n a failed
+save, a target takes 2d6 n ecrotic dam age and can ’t take
+reaction s until its next turn. O n a su ccessfu l save, the
+creature takes h alf dam age, but suffers no other effect.
+A t H igher Levels. W h en you cast this spell using a
+spell slot of 2nd level or higher, the dam age in creases by
+1d6 for each slot level above 1st.
+
+Charm Person
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+You attempt to ch a rm a h um anoid you can see w ithin
+range. It must m ake a W isd om saving throw, and d oes
+so w ith advantage if you or your com p a n ion s are fighting
+it. If it fails the saving throw, it is ch a rm ed by you until
+the spell en ds or until you or your com p a n ion s do
+anything harm ful to it. T h e ch a rm ed creature regards
+you as a friendly acquaintance. W h en the spell ends, the
+creature know s it w as charm ed by you.
+A t H igher L evels. W h en you cast this spell using
+a sp ell slot of 2nd level or higher, you can target one
+additional creature for each slot level above 1st. The
+creatu res must be w ithin 30 feet of each other w hen
+you target them.
+
+Comprehend Languages
+Casting Time: 1 action
+Range: self
+Components: V, S, M (a pinch of so o t and salt)
+Duration: 1 hour
+For the duration, you understand the literal m ean in g o f
+any sp oken language that you hear. You also understand
+any written language that you see, but you must be
+touching the su rface on w hich the w ord s are w ritten. It
+takes about 1 m inute to read on e page of text.
+This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn’t part of a
+written language.
+
+dissonant whispers
+Casting Time: 1 action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+You w hisper a discordant m elody that only on e creature
+o f your choice w ithin range can hear, w rackin g it with
+terrible pain. T h e target must m ake a W isd om saving
+throw. On a failed save, it takes 3d6 psychic dam age and
+must im m ediately use its reaction, if available, to m ove
+as far as its sp eed allow s away from you. T h e creature
+d oe sn ’t m ove into obviously dangerou s ground, such
+as a fire or a pit. O n a su ccessfu l save, the target takes
+half as m uch dam age and d oesn ’t have to m ove away. A
+deafened creature autom atically su cce e d s on the save.
+A t H igher Levels. W h en y ou cast this spell usin g a
+spell slot of 2nd level or higher, the dam age in creases by
+1d6 for each slot level above 1st.
+
+Expeditious Retreat
+Casting Time: 1 bon u s action
+Range: self
+Components: V, S
+Duration: Concentration, up to 10 m inutes
+Th is spell allow s you to m ove at an incredible pace.
+W h en you cast this spell, and then as a bon u s action
+on each of your turns until the spell ends, you can take
+the D ash action.
+
+Hellish Rebuke
+Casting Time: 1 reaction, w hich you take in resp on se
+to being dam aged by a creature w ithin 60 feet of you
+that you can see
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You point your finger, and the creature that dam aged
+you is m om entarily su rrou nded by hellish flam es. The
+creature must m ake a D exterity saving throw. It takes
+2 d10 fire dam age on a failed save, or h alf as m uch
+dam age on a su ccessfu l one.
+A t H igher Levels. W h en you cast this spell using a
+spell slot of 2nd level or higher, the dam age in creases by
+1dlO for each slot level above 1st.
+
+Hex
+Casting Time: 1 bon u s action
+Range: 9 0 feet
+Components: V, S, M (the petrified eye of a newt)
+Duration: Concentration, up to 1 hour
+You place a cu rse on a creature that you can see w ithin
+range. Until the spell ends, you deal an extra 1d6
+n ecrotic dam age to the target when ever you hit it with
+an attack. A lso, c h o o s e on e ability w h en you cast the
+spell. The target has disadvantage on ability ch eck s
+m ade w ith the ch osen ability.
+If the target d rop s to 0 hit points b efore this spell
+ends, y ou ca n use a bon u s action on a subsequent turn
+o f yours to cu rse a new creature.
+A rem ove curse cast on the target ends this spell early.
+A t Higher Levels. W h en you cast this spell using
+a spell slot of 3rd or 4th level, you can m aintain your
+concentration on the spell for up to 8 hours. W h en you
+u se a spell slot of 5th level or higher, you can maintain
+your concentration on the spell for up to 24 hours.
+
+Illusory script
+Casting Time: 1 m inute
+Range: Touch
+Components: S , M (a lead-based ink w orth at least 10
+gp, which the spell consumes)
+Duration: 10 days
+You w rite on parchm ent, paper, or som e other suitable
+w riting material and im bue it with a potent illusion that
+lasts for the duration.
+To you and any creatu res you designate when you
+cast the spell, the w riting appears norm al, written in
+your hand, and conveys w hatever m eaning you intended
+w hen you w rote the text. To all others, the w riting
+appears as if it w ere w ritten in an u nkn ow n or m agical
+script that is unintelligible. Alternatively, you can cau se
+the w riting to appear to be an entirely different m essage,
+written in a different hand and language, though the
+language must b e on e you know.
+Sh ou ld the spell b e dispelled, the original script and
+the illusion both disappear.
+A creature with truesight can read the
+hidden m essage.
+
+Protection from evil and good
+Components: V, S, M (holy w ater or p ow dered silver
+and iron, w hich the spell con su m es)
+Duration: Concentration up to 10 minutes
+Until the spell ends, on e w illing creature you
+touch is protected against certain types of
+creatures: aberrations, celestials, elem entals, fey,
+fiends, and undead.
+The protection grants several benefits. Creatures o f
+th ose types have disadvantage on attack rolls against
+the target. T h e target also c a n ’t be charm ed, frightened,
+or possessed by them. If the target is already charm ed,
+frightened, or possessed by such a creature, the target
+has advantage on any new saving th row against the
+relevant effect.
+
+Tasha's hideous laughter
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (tiny tarts and a feather that is
+w aved in the air)
+Duration: C oncentration, up to 1 m inute
+A creature of your choice that you can see w ithin range
+perceives everything as hilariously funny and falls
+into fits of laughter if this spell affects it. The target
+must su cceed on a W isd om saving th row o r fall prone,
+b ecom in g incapacitated and unable to stand up for the
+duration. A creature w ith an Intelligence sco re of 4 or
+less isn’t affected.
+At the end of each of its turns, and each tim e it takes
+dam age, the target can m ake another W isd om saving
+throw. The target has advantage on the saving th row if
+it’s triggered by dam age. On a su ccess, the spell ends.
+
+Unseen servant
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a p iece of string and
+a bit of w o o d )
+Duration: 1 hour
+T his sp ell creates an invisible, m indless, shap eless
+force that perform s sim ple tasks at your com m a n d until
+the spell ends. The servant springs into existen ce in an
+u n occu p ied sp ace on the ground w ithin range. It has AC
+10, 1 hit point, and a Strength of 2, and it c a n ’t attack. If
+it d rop s to 0 hit points, the spell ends.
+O nce on each of your turns as a bon u s action, you can
+m entally c om m a n d the servant to m ove up to 15 feet and
+interact w ith an object. T h e servant can perform sim ple
+tasks that a hum an servant cou ld do, such as fetching
+things, cleaning, m ending, folding clothes, lighting
+fires, serving food , and pou rin g w ine. O nce you give the
+com m a n d , the servant perform s the task to the best o f
+its ability until it com pletes the task, then w aits for your
+next com m and .
+If you com m a n d the servant to perform a task that
+w ou ld m ove it m ore than 60 feet away from you,
+the spell ends.
+
+	2nd level
+
+cloud of daggers
+Casting Time: 1 action
+Range: 6 0 feet
+Components: V, S, M (a sliver of glass)
+Duration: Concentration, up to 1 minute
+You fill the air with spinning daggers in a cu b e 5 feet on
+each side, centered on a point you c h o o s e w ithin range.
+A creature takes 4 d 4 slashing dam age when it enters
+the sp ell’s area for the first tim e on a turn or starts
+its turn there.
+A t H igher Levels. W h en you cast this spell using a
+spell slot of 3rd level or higher, the dam age in creases by
+2d4 for each slot level above 2nd.
+
+crown of madness
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, up to 1 m inute
+O ne hum anoid of your choice that you can see w ithin
+range must su cce e d on a W isd om saving throw or
+b e c o m e charm ed by you for the duration. W hile
+the target is charm ed in this way, a tw isted crow n
+o f ja gg ed iron appears on its head, and a m adn ess
+g low s in its eyes.
+T h e ch arm ed target must use its action b efore m oving
+on each of its turns to m ake a m elee attack against a
+creature other than itself that you mentally c h oose.The target can act n orm ally on its turn if you c h o o s e no
+creature or if n one are w ithin its reach.
+On your subsequent turns, you must use your action to
+m aintain control over the target, or the spell ends. A lso,
+the target can m ake a W isd om saving th row at the end
+o f each of its turns. On a su ccess, the spell ends.
+
+Darkness
+Casting Time: 1 action
+Range: 60 feet
+Components: V, M (bat fur and a drop of pitch or
+p iece of coal)
+Duration: Concentration, up to 10 m inutes
+M agical darkness spreads from a point you c h o o s e
+w ithin range to fill a 15-foot-radius sphere for the
+duration. T h e darkn ess spreads around corn ers.
+A creature with darkvision ca n ’t see through this
+darkness, and n onm agical light ca n ’t illum inate it.
+If the point you c h o o s e is on an object you are holding
+or on e that isn’t bein g w orn or carried, the darkness
+em anates from the object and m oves w ith it. Com pletely
+coverin g the sou rce of the darkn ess w ith an opaque
+object, such as a b ow l or a helm , b lock s the darkness.
+If any of this sp ell’s area overlaps with an area of light
+created by a spell of 2nd level or lower, the spell that
+created the light is dispelled.
+
+detect thoughts
+Casting Time: 1 action
+Range: self
+Components: V, S, M (a co p p e r p iece)
+Duration: C oncentration, up to 1 minuteF or the duration, you can read the thoughts of certain D
+creatures. W h en you cast the spell and as your action on
+each turn until the spell ends, you ca n focu s your m ind
+on any on e creature that you can see w ithin 30 feet o f
+you. If the creature you c h o o s e has an Intelligence o f
+3 or low er or d oesn ’t sp eak any language, the creature 1st-level illusion
+is unaffected.
+You initially learn the su rface thoughts of the
+creatu re—w hat is m ost on its m ind in that m om ent. As
+an action, you can either shift your attention to another
+creatu re’s thoughts or attempt to probe deep er into the
+sa m e creatu re’s mind. If you probe deeper, the target
+m ust m ake a W isd om saving throw. If it fails, you gain
+insight into its reason in g (if any), its em otional state,
+and som eth in g that loom s large in its m ind (such as
+som eth in g it w orries over, loves, or hates). If it su cceed s,
+the spell ends. Either way, the target know s that you are
+probin g into its mind, and unless you shift your attention
+to another creatu re’s thoughts, the creature can use
+its action on its turn to m ake an Intelligence ch eck
+contested by your Intelligence check; if it su cceed s,
+the spell ends.
+Q uestion s verbally directed at the target creature
+naturally shape the co u rse of its thoughts, s o this spell
+is particularly effective as part of an interrogation.
+You can also use this spell to detect the p resen ce o f
+thinking creatu res you ca n ’t see. W h en you cast the
+spell or as your action during the duration, you can
+sea rch for thoughts w ithin 30 feet of you. The spell can
+penetrate barriers, but 2 feet of rock, 2 in ch es of any
+m etal other than lead, or a thin sheet of lead b lock s you.
+Y ou ca n ’t detect a creature with an Intelligence of 3 or
+low er or one that d oesn ’t sp eak any language.
+O n ce you detect the p resen ce of a creature in this way,
+you can read its thoughts for the rest of the duration as
+d escrib ed above, even if you ca n ’t se e it, but it must still
+b e w ithin range.
+
+Enthrall
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: 1 minute
+You w eave a distracting string of w ords, causing
+creatures of your choice that you can see w ithin range
+and that can hear you to m ake a W isd om saving
+throw. A ny creature that ca n ’t b e ch arm ed su cce e d s
+on this saving th row automatically, and if you or your
+com p a n ion s are fighting a creature, it has advantage on
+the save. On a failed save, the target has disadvantage
+on W isd om (P erception ) ch eck s m ade to perceive any
+creature other than you until the spell ends or until the
+target can no longer h ear you. The spell en ds if you are
+incapacitated or can n o longer speak.
+
+Hold Person
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a sm all, straight p iece of iron)
+Duration: Concentration, up to 1 m inute
+C h o o se a hum anoid that you can see w ithin range.
+T h e target must s u cce e d on a W isd om saving throw
+or b e paralyzed for the duration. At the end of each o f
+its turns, the target can m ake another W isd om saving
+throw. On a su ccess, the spell ends on the target.
+At Higher Levels. W h en you cast this spell using
+a spell slot of 3rd level or higher, you can target one
+additional h um anoid for each slot level above 2nd. The
+hum an oids must be w ithin 30 feet of each other w hen
+you target them.
+
+Invisibility
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (an eyelash en ca sed
+in gum arabic)
+Duration: Concentration, up to 1 hour
+A creature you touch b e c o m e s invisible until the spell
+ends. A nything the target is w earin g or carryin g is
+invisible as long as it is on the target’s person . T h e spell
+ends for a target that attacks or casts a spell.
+A t H igher Levels. W h en you cast this spell using
+a spell slot of 3rd level or higher, you can target one
+additional creature for each slot level above 2nd.
+
+Mirror Image
+Casting Time: 1 action
+Range: S e lf
+Components: V, S
+Duration: 1 minute
+Th ree illusory duplicates of y ou rself appear in your
+space. Until the spell ends, the duplicates m ove with
+you and m im ic your actions, shifting position so it’s
+im possible to track which im age is real. You can use
+your action to dism iss the illusory duplicates.
+Each time a creature targets you with an attack during
+the sp ell’s duration, roll a d2 0 to determ ine w hether the
+attack instead targets on e of your duplicates.
+If you have three duplicates, you must roll a 6 or
+higher to change the attack’s target to a duplicate. W ith
+tw o duplicates, you must roll an 8 or higher. W ith one
+duplicate, you must roll an 11 or higher.
+A duplicate’s AC equals 10 + your Dexterity m odifier.
+If an attack hits a duplicate, the duplicate is destroyed. A
+duplicate can b e destroyed only by an attack that hits it.
+It ignores all other dam age and effects. T h e spell ends
+w hen all three duplicates are destroyed.
+A creature is unaffected by this spell if it ca n ’t see, if it
+relies on se n se s other than sight, such as blindsight, or
+if it can perceive illusions as false, as with truesight.
+
+Misty Step
+Casting Time: 1 bon u s action
+Range: S e lf
+Components: V
+Duration: Instantaneous
+Briefly su rrou nded by silvery m ist, you teleport up to 30
+feet to an u n occu p ied sp ace that you can see.
+
+phantasmal force
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a bit of fleece)
+Duration: Concentration, up to 1 m inute
+You craft an illusion that takes root in the m ind of a
+creature that you can see w ithin range. T h e target must
+m ake an Intelligence saving throw. On a failed save, you
+create a phantasm al object, creature, or other visible
+ph enom enon of you r choice that is no larger than a
+10-foot cu b e and that is perceivable only to the target
+for the duration. T h is spell has n o effect on undead
+or constructs.
+The phantasm includes sound, tem perature, and other
+stimuli, also evident only to the creature.
+The target can use its action to exam ine the phantasm
+with an Intelligence (Investigation) ch eck against your
+spell save DC. If the ch eck su cceed s, the target realizes
+that the phantasm is an illusion, and the spell ends.
+W h ile a target is affected by the spell, the target treats
+the phantasm as if it w ere real. The target rationalizes
+any illogical ou tcom es from interacting w ith the
+phantasm . F or exam ple, a target attem pting to w alk
+a cross a phantasm al bridge that spans a chasm falls
+on ce it steps onto the bridge. If the target survives the
+fall, it still believes that the bridge exists and co m e s up
+with som e other explanation for its fall—it w as pushed,
+it slipped, or a stron g w in d m ight have kn ock ed it off.
+A n affected target is s o con v in ced of the phantasm ’s
+reality that it can even take dam age from the illusion. A
+phantasm created to appear as a creature can attack the
+target. Similarly, a phantasm created to appear as fire, a
+p ool of acid, or lava can burn the target. Each round on
+your turn, the phantasm can deal 1d6 psychic dam age
+to the target if it is in the phantasm ’s area or w ithin 5
+feet of the phantasm , provided that the illusion is of a
+creature or hazard that cou ld logically deal dam age,
+such as by attacking. The target perceives the dam age
+as a type appropriate to the illusion.
+
+Ray of Enfeeblement
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 m inute
+A black b ea m of enervating en ergy sprin gs from your
+finger tow ard a creature w ithin range. M ake a ranged
+spell attack against the target. On a hit, the target deals
+only h alf dam age with w eap on attacks that use Strength
+until the spell ends.
+At the end of each of the target’s turns, it can m ake
+a Constitution saving th row against the spell. On a
+success, the spell ends.
+
+Shatter
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a chip of m ica)
+Duration: Instantaneous
+A sudden loud ringin g n oise, painfully intense, erupts
+from a point of your choice w ithin range. E ach creature
+in a 10-foot-radius sphere centered on that point must
+m ake a Constitution saving throw. A creature takes
+3d8 thunder dam age on a failed save, or h alf as m uch
+dam age on a su ccessfu l one. A creature m ade o f
+inorganic m aterial such as stone, crystal, or m etal has
+disadvantage on this saving throw.
+A n onm agical object that isn’t bein g w orn or carried
+also takes the dam age if it’s in the spell's area.
+A t H igher L evels. W h en you cast this spell u sing a
+spell slot of 3rd level or higher, the dam age in creases by
+1d8 for each slot level above 2nd.
+
+Spider Climb
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a drop of bitum en and a spider)
+Duration: C oncentration, up to 1 hour
+Until the spell ends, one w illing creature you touch
+gains the ability to m ove up, dow n, and a cross vertical
+su rfaces and upside dow n along ceilin gs, w hile leaving
+its hands free. The target also gains a clim bin g sp eed
+equal to its w alking speed.
+
+suggestion
+Casting Time: 1 action
+Range: 30 feet
+Components: V, M (a sn ake’s tongue and either a bit o f
+h on eycom b or a drop of sw eet oil)
+Duration: C oncentration, up to 8 hours
+You suggest a cou rse of activity (lim ited to a sentence
+or tw o) and m agically influence a creature you can
+s ee w ithin range that can hear and understand you.
+C reatures that ca n ’t be charm ed are im m une to this
+effect. The su ggestion must be w ord ed in such a m anner
+as to m ake the co u rse of action sou n d reasonable.
+A skin g the creature to stab itself, th row itself onto
+a spear, im m olate itself, or d o so m e other obviously
+harm ful act en ds the spell.
+The target must m ake a W isd om saving throw. O n a
+failed save, it pu rsues the co u rse of action you d escribed
+to the best of its ability. T h e su ggested cou rse of action
+can continue for the entire duration. If the suggested
+activity can be com pleted in a shorter time, the spell
+ends when the subject finishes w hat it w as asked to do.
+You can also sp ecify condition s that w ill trigger a
+sp ecia l activity during the duration. For exam ple, you
+m ight suggest that a knight give her w arhorse to the
+first beggar she m eets. If the condition isn’t m et before
+the spell expires, the activity isn’t perform ed.
+If you or any of your com p a n ion s dam age the target,
+the spell ends.
+
+	3rd level
+
+clairvoyance
+divination
+Casting Time: 10 m inutes
+Range: 1 mile
+Components: V, S, M (a focu s w orth at least 100
+gp, either a jew eled horn for h earing or a glass
+eye for seeing)
+Duration: Concentration, up to 10 m inutes
+You create an invisible sen sor w ithin range in a location
+fam iliar to you (a place you have visited or seen before)
+or in an obviou s location that is unfam iliar to you (such
+as behind a door, around a corner, or in a grove of trees).
+T h e sen sor rem ains in place for the duration, and it
+ca n ’t be attacked or oth erw ise interacted with.
+W h en you cast the spell, you c h o o s e seein g or
+hearing. You can use the ch osen sen se through the
+sen sor as if you w ere in its sp ace. A s your action, you
+can sw itch b etw een seein g and hearing.
+A creature that can see the sen sor (such as a creature
+benefiting from s e e invisibility or truesight) s e e s a
+luminous, intangible orb about the size of your fist.
+
+counterspell
+Casting Time: 1 reaction, which you take when you see
+a creature w ithin 60 feet of you casting a spell
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+You attempt to interrupt a creature in the p r o ce s s o f
+casting a spell. If the creature is casting a spell of 3rd
+level or lower, its spell fails and has no effect. If it is
+casting a spell of 4th level or higher, m ake an ability
+ch eck using your sp ellcastin g ability. T h e D C equals 10
++ the sp ell’s level. On a su ccess, the creatu re’s spell fails
+and has no effect.
+A t H igher L evels. W h en you cast this spell using a
+spell slot of 4th level or higher, the interrupted spell has
+no effect if its level is less than or equal to the level of the
+spell slot you used.
+
+dispel magic
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+C h oose on e creature, object, or m agical effect within
+range. Any spell of 3rd level or low er on the target ends.
+For each spell of 4th level or higher on the target, m ake
+an ability ch eck using your spellcastin g ability. The
+D C equ als 10 + the spell’s level. On a su ccessfu l check,
+the spell ends.
+A t H igher L evels. W h en you cast this spell using a
+spell slot of 4th level or higher, you autom atically end
+the effects of a spell on the target if the sp ell’s level is
+equal to or less than the level of the spell slot you used.
+
+fear
+Casting Time: 1 action
+Range: S e lf (30-foot cone)
+Components: V, S, M (a white feather or the
+heart of a hen)
+Duration: Concentration, up to 1 minute
+You project a phantasm al im age of a creatu re’s w orst
+fears. E ach creature in a 30 -foot con e must su cceed on
+a W isd om saving th row or drop w hatever it is holding
+and b e c o m e frightened for the duration.
+W h ile frightened by this spell, a creature must take
+the D ash action and m ove away from you by the safest
+available route on each of its turns, unless there is
+now h ere to m ove. If the creature en ds its turn in a
+location w here it d oesn ’t have line of sight to you,
+the creature can m ake a W isd om saving throw. On a
+su ccessfu l save, the spell ends for that creature.
+
+fly
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a w in g feather from any bird)
+Duration: Concentration, up to 10 m inutes
+You touch a w illin g creature. The target gains a flying
+sp eed of 60 feet for the duration. W h en the spell ends,
+the target falls if it is still aloft, u n less it ca n stop the fall.
+A t H igher L evels. W h en you cast this spell using
+a sp ell slot of 4th level or higher, you can target one
+additional creature for each slot level above 3rd.
+
+gaseous form
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a bit of gauze and a
+w isp of sm oke)
+Duration: Concentration, up to 1 hour
+You transform a w illing creature you touch, along with
+everything it’s w earin g and carrying, into a m isty cloud
+for the duration. The sp ell ends if the creature d rop s to
+0 hit points. An in corp orea l creature isn’t affected.
+W h ile in this form , the target’s only m ethod of
+m ovem ent is a flying sp eed of 10 feet. T h e target can
+enter and occu p y the sp ace of another creature. The
+target has resistan ce to n onm agical dam age, and it has
+advantage on Strength, Dexterity, and Constitution
+saving throw s. T h e target can pa ss through sm all holes,
+n arrow open in gs, and even m ere cracks, though it treats
+liquids as though they w ere solid su rfaces. T h e target
+can't fall and rem ains h overing in the air even w hen
+stunned or oth erw ise incapacitated.
+W h ile in the form of a m isty cloud, the target ca n ’t talk
+or m anipulate objects, and any objects it w as carryin g or
+h olding ca n ’t be dropped, used, or oth erw ise interacted
+with. The target can ’t attack or cast spells.
+
+hunger of hadar
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (a pickled octop u s tentacle)
+Duration: C oncentration, up to 1 m inute
+You open a gateway to the dark b etw een the stars, a
+region infested w ith u nkn ow n h orrors. A 20-foot-radius
+sphere of black n ess and bitter cold appears, centered
+on a point w ith range and lasting for the duration. This
+void is filled with a ca cop h on y of soft w h ispers and
+slurping n oises that can b e heard up to 30 feet away. No
+light, m agical or oth erw ise, can illum inate the area, and
+creatures fully w ithin the area are blinded.
+The void creates a w arp in the fabric of space, and the
+area is difficult terrain. A ny creature that starts its turn
+in the area takes 2d6 cold dam age. A ny creature that
+en ds its turn in the area must s u c ce e d on a Dexterity
+saving th row or take 2d 6 acid dam age as milky,
+oth erw orldly tentacles rub against it.
+
+magic circle
+Casting Time: 1 minute
+Range: 10 feet
+Components: V, S, M (holy water or p ow dered
+silver and iron w orth at least 100 gp, w hich the
+spell con su m es)
+Duration: 1 hour
+You create a 10-foot-radius, 20-foot-tall cylinder o f
+m agical energy centered on a point on the ground
+that you can see w ithin range. G low ing runes appear
+w herever the cylinder intersects with the floor or
+other surface.
+C h oose one or m ore of the follow in g types o f
+creatures: celestials, elem entals, fey, fiends, or undead.
+T h e circle affects a creature of the ch osen type in the
+follow in g ways:
+* The creature c a n ’t w illingly enter the cylinder by
+n onm agical m eans. If the creature tries to use tele­
+portation or interplanar travel to do so, it must first
+s u cce e d on a C harism a saving throw.
+* The creature has disadvantage on attack rolls against
+targets w ithin the cylinder.
+* Targets w ithin the cylinder c a n ’t be charm ed, fright­
+ened, or p o s se ss e d by the creature.W h en you cast this spell, you can elect to cau se its
+m agic to operate in the reverse direction, preventing a
+creature of the sp ecified type from leaving the cylinder
+and protecting targets outside it.
+A t H igher Levels. W h en you cast this spell using a
+spell slot of 4th level or higher, the duration in creases by
+1 hour for each slot level above 3rd.
+
+major image
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a bit of fleece)
+Duration: C oncentration, up to 10 m inutes
+You create the im age of an object, a creature, or som e
+other visible p h en om en on that is no larger than a
+20-foot cube. The im age appears at a spot that you
+can see w ithin range and lasts for the duration. It
+seem s com pletely real, including sou n ds, sm ells, and
+tem perature appropriate to the thing depicted. You
+ca n ’t create sufficienTheat or cold to cau se dam age, a
+sou n d loud en ough to deal thunder dam age or deafen a
+creature, or a sm ell that m ight sicken a creature (like a
+troglodyte’s stench).
+A s lon g as you are w ithin range of the illusion, you
+can use your action to cau se the im age to m ove to
+any other spot w ithin range. A s the im age changes
+location, you can alter its appearan ce so that its
+m ovem ents appear natural for the im age. F or exam ple,
+if you create an im age of a creature and m ove it, you
+can alter the im age so that it appears to b e w alking.
+Similarly, you can cau se the illusion to m ake different
+sou n d s at different tim es, even m aking it carry on a
+conversation, for exam ple.
+P hysical interaction w ith the im age reveals it to be an
+illusion, b eca use things can pass through it. A creature
+that u ses its action to exam ine the im age can determ ine
+that it is an illusion with a su ccessfu l Intelligence
+(Investigation) ch eck against your spell save DC. If a
+creature discern s the illusion for what it is, the creature
+can see through the im age, and its other sen sory
+qualities b e c o m e faint to the creature.
+A t H igher Levels. W h en you cast this spell using
+a spell slot of 6th level or higher, the spell lasts until
+dispelled, without requiring your concentration.
+
+remove curse
+Casting Time: 1 action
+Range: Touch
+R Components: V, S
+Duration: Instantaneous
+At your touch, all cu rses affecting on e creature or
+ob ject end. If the object is a cu rsed m agic item, its cu rse
+rem ains, but the spell breaks its ow n er’s attunem ent to
+the object s o it can be rem oved or d iscarded.
+
+sending
+Casting Time: 1 action
+Range: Unlim ited
+Components: V, S, M (a short p iece of fine co p p e r w ire)
+Duration: 1 round
+You send a sh ort m essa ge of twenty-five w ord s or
+less to a creature w ith w hich you are familiar. The
+creature hears the m essa ge in its m ind, recog n izes
+you as the sen der if it know s you, and can an sw er in a
+like m anner im mediately. The spell en ables creatures
+with Intelligence s c o r e s of at least 1 to understand the
+m eaning of your m essage.
+You can sen d the m essa ge a cross any distance and
+even to other planes of existence, but if the target is on a
+different plane than you, there is a 5 percent chance that
+the message d oesn’t arrive.
+
+tongues
+Casting Time: 1 action
+Range: Touch
+Components: V, M (a sm all clay m od el of a ziggurat)
+Duration: 1 hour
+T h is spell grants the creature you touch the ability to
+understand any spoken language iThears. M oreover,
+w hen the target speaks, any creature that know s at
+least one language and can hear the target understands
+what it says.
+
+vampiric touch
+Casting Time: 1 action
+Range: self
+Components: V, S
+Duration: Concentration, up to 1 m inute
+The touch of your shadow -w reathed hand can siphon life
+force from others to heal your w oun ds. M ake a m elee
+spell attack against a creature w ithin y ou r reach. On
+a hit, the target takes 3d 6 n ecrotic dam age, and you
+regain hit points equal to h alf the am ount of n ecrotic
+d am age dealt. Until the spell ends, you can m ake the
+attack again on each of your turns as an action.
+A t H igher L evels. W h en you cast this spell usin g a
+spell slot of 4th level or higher, the dam age in creases by
+1d6 for each slot level above 3rd.
+
+	4th level
+
+banishment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (an item distasteful to the target)
+Duration: C oncentration, up to 1 m inute
+Y ou attempt to sen d on e creature that you ca n see
+w ithin range to another plane of existence. The
+target must su cce e d on a C harism a saving throw
+or b e banished.
+If the target is native to the plane of existence y ou ’re
+on, you banish the target to a h arm less dem iplane.
+W h ile there, the target is incapacitated. The target
+rem ains there until the spell ends, at w hich point the
+target reappears in the sp ace it left or in the nearest
+u n occu p ied sp ace if that sp ace is occu pied.
+If the target is native to a different plane of existence
+than the one you ’re on, the target is banish ed with
+a faint pop p in g n oise, returning to its h om e plane.
+If the spell ends before 1 m inute has passed, the
+target reappears in the sp ace it left or in the nearest
+u n occu p ied sp ace if that sp a ce is occu pied. O therw ise,
+the target doesn't return.
+A t H igher L evels. W h en you cast this spell using
+a spell slot of 5th level or higher, you can target one
+additional creature for each slot level above 4th.
+
+blight
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+N ecrom an tic energy w a sh es over a creature of your
+ch oice that you can see w ithin range, draining m oisture
+and vitality from it. T h e target must m ake a Constitution
+saving throw. T h e target takes 8 d 8 n ecrotic dam age on
+a failed save, or h alf as m uch dam age on a su ccessfu l
+one. T h is spell has no effect on undead or constructs.
+If you target a plant creature or a m agical plant, it
+m a kes the saving th row w ith disadvantage, and the spell
+deals m axim u m dam age to it.
+If you target a n on m agica l plant that isn’t a creature,
+such as a tree or shrub, it d oesn ’t m ake a saving throw;
+it sim ply w ithers and dies.
+A t H igher L evels. W h en you cast this spell usin g a
+sp ell slot of 5th level or higher, the dam age in creases by
+1d8 for each slot level above 4th.
+
+dimension door
+Casting Time: 1 action
+Range: 5 0 0 feet
+Com ponents: V
+Duration: Instantaneous
+You teleport y ou rself from your current location to any
+other sp ot w ithin range. You arrive at exactly the spot
+desired. It can be a place you can see, one you can
+visualize, or on e you can d escrib e by stating distance
+and direction, such as “ 20 0 feet straight dow n w ard” or
+“upward to the northw est at a 45-degree angle, 3 0 0 feet.”
+You can bring along ob jects as long as their w eight
+d oesn ’t ex ceed w hat you can carry. You can a lso bring
+on e w illing creature of your size or sm aller w h o is
+carryin g gear up to its carryin g capacity. T h e creature
+m ust be w ithin 5 feet of you when you cast this spell.
+If you w ou ld arrive in a place already occu p ied by an
+object or a creature, you and any creature traveling with
+you each take 4d 6 force dam age, and the spell fails to
+teleport you.
+
+dominate beast
+Casting Time: 1 actionRange: 6 0 feet
+Components: V, S
+Duration: Concentration, up to 1 m inute
+You attempt to begu ile a beast that you can see w ithin
+range. It must su cce e d on a W isd om saving th row or be
+ch a rm ed by you for the duration. If you or creatures that
+are friendly to you are fighting it, it has advantage on the
+saving throw.
+W h ile the beast is charm ed, you have a telepathic link
+w ith it as long as the two of you are on the sam e plane
+o f existence. You can use this telepathic link to issue
+com m a n d s to the creature w hile you are co n s cio u s (no
+action required), w hich it d o e s its best to obey. You can
+sp ecify a sim ple and general co u rse of action, such as
+“Attack that creature,” “Run over there,” or “Fetch that
+object.” If the creature com pletes the order and d oesn ’t
+receive further direction from you, it defends and
+p reserves itself to the best of its ability.
+You ca n use your action to take total and precise
+con trol of the target. Until the end of your next turn, the
+creature takes only the actions you c h oose, and d oesn ’t
+do anything that you don ’t allow it to do. D uring this
+time, you can also cau se the creature to use a reaction,
+but this requires you to use your ow n reaction as well.
+E ach tim e the target takes dam age, it m akes a new
+W isd om saving th row against the spell. If the saving
+th row su cceed s, the spell ends.
+A t H igher L evels. W h en you cast this spell w ith a
+5th-level spell slot, the duration is concentration, up
+to 10 minutes. W h en you use a 6th-level spell slot,
+the duration is concentration, up to 1 hour. W h en you
+u se a spell slot of 7th level or higher, the duration is
+concentration, up to 8 hours.
+
+Evard’s black tentacles
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a p iece of tentacle from a giant
+octop u s or a giant squid)
+Duration: Concentration, up to 1 minute
+Squirm ing, ebon y tentacles fill a 20 -foot square on
+ground that you can see w ithin range. F or the duration,
+these tentacles turn the ground in the area into
+difficult terrain.
+W h en a creature enters the affected area for the first
+tim e on a turn or starts its turn there, the creature
+must su cce e d on a D exterity saving th row or take 3d6
+bludgeon ing dam age and be restrained by the tentacles
+until the spell ends. A creature that starts its turn in the
+area and is already restrained by the tentacles takes 3d6
+bludgeon ing dam age.
+A creature restrained by the tentacles can use its
+action to m ake a Strength or Dexterity ch eck (its choice)
+against your spell save DC. O n a su ccess, it frees itself.
+
+hallucinatory terrain
+Casting Time: 10 m inutes
+Range: 3 0 0 feet
+Components: V, S, M (a stone, a tw ig, and a bit
+o f green plant)
+Duration: 24 hours
+You m ake natural terrain in a 150-foot cube in range
+look, sound, and sm ell like som e other sort of natural
+terrain. Thus, open fields or a road can be m ade to
+resem b le a sw am p, hill, crevasse, or som e other difficult
+or im passable terrain. A p on d can be m ade to seem
+like a grassy m eadow , a p recipice like a gentle slope,
+or a rock-strew n gully like a w ide and sm ooth road.
+M anufactured structures, equipm ent, and creatures
+w ithin the area aren’t changed in appearance.
+Th e tactile characteristics of the terrain are
+u nchanged, s o creatures entering the area are likely to
+s ee through the illusion. If the difference isn’t obviou s
+by touch, a creature carefully exam inin g the illusion can
+attempt an Intelligence (Investigation) ch eck against
+your spell save D C to disbelieve it. A creature w ho
+discern s the illusion for w hat it is, s e e s it as a vague
+im age su p erim p osed on the terrain.
+
+#   all cantrips #
+
+acid splash, dex fail ->d6 range 5'
+)Blade Ward, 1/2 damage vs mundane
+)Chill Touch, d8
+dancing lights, 4 movable
+)Eldritch Blast, d10
+fire bolt, d10
+)Friends, cha advantage 1min then hostile
+guidance, d4 target buff
+light, 1hr object based
+Mage Hand, 30' 30lb
+mending, a single break/tear
+message, + reply
+)Minor Illusion, 
+)Poison Spray, CON fail ->d12
+)Prestidigitation, 
+produce flame, in my hand
+ray of frost, d8
+resistance, d4 target saving buff
+sacred flame, d8
+shillelagh, d8 to my club
+shocking grasp, d8
+spare the dying, autosave 0hp
+thorn whip, d6 + pull 10'
+)True Strike, attack advantage next turn
+vicious mockery, wis fail ->1d4 psi + disadvantage
+
+# descriptions for invocations #
+
+Bane
+1st-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (a drop of blood )
+Duration: C oncentration, up to 1 minute
+Up to three creatu res of your choice that you ca n see
+w ithin range must m ake C harism a saving throw s.
+W h enever a target that fails this saving th row m akes
+an attack roll or a saving th row before the spell ends,
+the target must roll a d4 and subtract the num ber rolled
+from the attack roll or saving throw.
+A t H igher Levels. W h en you cast this spell using
+a spell slot of 2nd level or higher, you can target one
+additional creature for each slot level above 1st.
+
+mage armor
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a piece of cured leather)
+Duration: 8 hours
+You touch a w illing creature w h o isn’t w earin g armor,
+and a protective m agical force su rrou nd s it until the
+spell ends. T h e target’s b a se AC b e c o m e s 13 + its
+Dexterity modifier. T h e spell en ds if the target dons
+arm or or if you d ism iss the spell as an action.
+
+detect magic
+(ritual)
+Casting Time: 1 action
+Range: self
+Components: V, S
+Duration: Concentration, up to 10 m inutes
+F or the duration, you sen se the p resen ce of m agic
+w ithin 30 feet of you. If you sen se m agic in this way, you
+can use y ou r action to see a faint aura around any visible
+creature or object in the area that b ea rs m agic, and you
+learn its sch o o l of m agic, if any.
+The spell can penetrate m ost barriers, but it is block ed
+by 1 foot of stone, 1 inch of co m m o n metal, a thin sheet
+o f lead, or 3 feet of w o o d or dirt.
+
+false life
+Casting Time: 1 action
+Range: self
+Components: V, S, M (a sm all am ount of alcoh ol or
+distilled spirits)
+Duration: 1 hour
+B olsterin g y ou rself w ith a n ecrom antic facsim ile of life,
+you gain 1d4 + 4 tem porary hit points for the duration.
+A t H igher Levels. W h en you cast this spell using a
+spell slot of 2nd level or higher, you gain 5 additional
+tem porary hit points for each slot level above 1st.
+
+disguise self
+Casting Time: 1 action
+Range: self
+Components: V, S
+Duration: 1 hour
+You m ake yourself—including your clothing, armor,
+w eapon s, and other belon gin gs on your p erson —look
+different until the spell ends or until you use your action
+to d ism iss it. You can seem 1 foot shorter or taller and
+can appear thin, fat, or in betw een . You ca n ’t change
+your b od y type, so you must adopt a form that has the
+sa m e ba sic arrangem ent of lim bs. O therw ise, the extent
+o f the illusion is up to you.
+T h e ch a n g es w rou gh t by this spell fail to hold up to
+physical in spection. For exam ple, if you use this spell
+to add a hat to your outfit, objects pass through the hat,
+and anyone w h o tou ches it w ou ld feel nothing or w ould
+feel your head and hair. If you use this spell to appear
+thinner than you are, the hand of so m e o n e w ho reaches
+out to touch you w ould bum p into you w hile it w as
+seem in gly still in midair.
+To discern that you are disguised, a creature can u se
+its action to in spect your ap pearan ce and must su cceed
+on an Intelligence (Investigation) ch eck against your
+spell save DC.
+
+silent image
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a bit of fleece)
+Duration: Concentration, up to 10 m inutes
+You create the im age of an object, a creature, or som e
+other visible p h en om en on that is no larger than a 15-foot
+cube. The im age appears at a spot w ithin range and
+lasts for the duration. The im age is purely visual; it isn't
+a ccom p a n ied by sound, sm ell, or other sen sory effects.
+You can use your action to cau se the im age to m ove to
+any spot w ithin range. A s the im age changes location,
+you can alter its appearan ce s o that its m ovem ents
+appear natural for the im age. F or exam ple, if you create
+an im age of a creature and m ove it, you can alter the
+im age so that it appears to be w alking.
+P hysical interaction with the im age reveals it to be an
+illusion, b eca use things can pass through it. A creature
+that uses its action to exam ine the im age can determ ine
+that it is an illusion w ith a su ccessfu l Intelligence
+(Investigation) ch eck against your spell save DC. If a
+creature discern s the illusion for w hat it is, the creature
+can see through the im age.
+
+confusion
+4th-level enchantment
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (three nut shells)
+Duration: C oncentration, up to 1 m inute
+This spell assaults and tw ists creatu res' m inds,
+spaw ning delusions and provok in g u n controlled action.
+Each creature in a 10-foot-radius sphere centered on
+a point you c h o o s e w ithin range must su cce e d on a
+W isd om saving th row when you cast this spell or be
+affected by it.
+An affected target ca n ’t take reaction s and must roll
+a d 10 at the start of each of its turns to determ ine its
+behavior for that turn.
+d10	Behavior
+1	The creature uses all its movement to move in a
+random direction. To determine the direction, roll
+a d8 and assign a direction to each die face. The
+creature doesn’t take an action this turn.
+2-6	The creature doesn’t move or take actions this turn.
+7-8 The creature uses its action to make a melee attack against a random creature or does nothing if none available
+9-0 creature moves and acts normally
+
+compulsion
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: C oncentration, up to 1 m inute
+Creatures of your choice that you can see w ithin range
+and that ca n hear you must m ake a W isd om saving
+throw. A target autom atically s u c ce e d s on this saving
+th row if it ca n ’t b e charm ed. On a failed save, a target
+is affected by this spell. Until the spell ends, you can
+u se a bonus action on each of your turns to designate a
+direction that is h orizontal to you. E ach affected target
+m ust use as m uch of its m ovem ent as p ossib le to m ove
+in that direction on its next turn. It can take its action
+b efore it m oves. A fter m oving in this way, it can m ake
+another W isd om saving to try to end the effect.
+A target isn’t com p elled to m ove into an obviously
+deadly hazard, such as a fire or pit, but it w ill provoke
+opportunity attacks to m ove in the designated direction.
+
+jump
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a grassh op p er’s hind leg)
+Duration: 1 m inute
+You touch a creature. The creatu re’s ju m p distance is
+tripled until the spell ends.
+
+conjure elemental
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S, M (burning in cen se for air, soft clay
+for earth, sulfur and p h osph oru s for fire, or w ater and
+sand for water)
+Duration: C oncentration, up to 1 hour
+You call forth an elem ental servant. C h oose an area of air,
+earth, fire, or water that fills a 10-foot cu b e w ithin range.
+A n elem ental of challenge rating 5 or low er appropriate
+to the area you ch ose appears in an u n occu pied space
+within 10 feet of it. F or exam ple, a fire elem ental
+em erges from a bonfire, and an earth elem ental rises
+up from the ground. The elem ental disappears when it
+d rop s to 0 hit points or when the spell ends.
+T h e elem ental is friendly to you and your com pa n ion s
+for the duration. R oll initiative for the elem ental, w hich
+has its ow n turns. It ob ey s any verbal com m a n d s that
+you issue to it (no action required by you). If you don ’t
+issue any com m a n d s to the elem ental, it defends itself
+from h ostile creatu res but oth erw ise takes n o actions.
+If your concentration is broken, the elem ental d oesn ’t
+disappear. Instead, you lose control of the elem ental,
+it b e c o m e s h ostile tow ard you and your com panion s,
+and it might attack. An u n controlled elem ental ca n ’t
+be dism issed by you, and it disappears 1 hour after
+you su m m on ed it.
+T h e DM has the elem ental’s statistics.
+A t H igher Levels. W h en you cast this spell using
+a spell slot of 6th level or higher, the challenge rating
+in creases by 1 for each slot level above 5th.
+
+speak with dead
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S, M (burning incense)
+Duration: 10 m inutes
+You grant the sem bla n ce of life and intelligence to a
+c orp se of your choice w ithin range, allow ing it to answ er
+the questions you p ose. T h e co rp s e must still have a
+m outh and can ’t be undead. The spell fails if the corp se
+w as the target of this spell w ithin the last 10 days.
+Until the spell ends, you can ask the c orp se up to five
+questions. The co rp s e know s only what it kn ew in life,
+including the languages it knew. A n sw ers are usually
+brief, cryptic, or repetitive, and the c orp se is under no
+com pu lsion to offer a truthful answ er if you are hostile
+to it or it recog n izes you as an enemy. This spell d oesn ’t
+return the creature’s sou l to its body, only its anim ating
+spirit. Thus, the c orp se can ’t learn new inform ation,
+d oesn ’t com prehen d anything that has h appened since it
+died, and ca n ’t speculate about future events.
+
+
