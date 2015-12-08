@@ -1,0 +1,34 @@
+
+Cleric but maybe multiclass with rogue by background, I don't care
+I am son of an indentured farmer but fourth child, so partly neglected. Urchin gang becomes delinquent gang but split by adult rivals. I joined a group of highwaymen for a time, but we unsuccessfully raided an evil wizard's lair. I was captured and made a slave until the wizard was deposed by a local parish. I pined for the female cleric who rescued me so I joined and trained to become a cleric. I took to the religion itself though, as redemption (like My Name is Earl).
+
+Beholden to Yondalla. Domains Good and Protection
+
+
+Escape Artist	3
+Hide	4
+Intimidate	4
+Search	4
+Appraise	3
+Open Lock	3
+Move Silently	4
+Bluff	2
+Disguise	4
+Sleight of Hand	2
+Use Rope	2
+Spot	4
+Listen	4
+Knowledge Local	3
+Sense Motive	2
+Diplomacy	2
+Heal	2
+Knowledge History	1
+Knowledge Religion	3
+concentration	3
+
+14 STR, 16 DEX, 10 CON, 14 INT, 14 WIS, 14 CHA
+
+Languages: Common, halfling, Celestial, Orc
+
+domains were Good and Protection
+you may only prepare a certain amount each day, but you know all of them. Up to second level spells as spells go, clerics automatically know all of their sells and you can cast 4 level one spells, 3 level two spells, and 2 level three spells a day. I'd pick a few you know you'll prepare often so that you don't have to check the book as often each day.
