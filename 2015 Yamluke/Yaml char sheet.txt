@@ -1,44 +1,63 @@
 
-Yaml Cobb	Human; Warlock
+Yaml Cobb	Human; Warlock lvl 6
 
 Armor Class	13
 Hit points	33 (rolled 23; con bonus 10)
-Speed
+Speed	?
 initiative	+1
 
-Stat	Total	modify	rolled	human+	lvl 4
-Str 	12		1		11		1		
-Dex 	13		1		12		1		
+Stat	Total	modify	rolled	human+	@ lvl 4
+Str 	12		1		11		1		.
+Dex 	13		1		12		1		.
 Con 	14		2		12		1		1
-Int 	15		2		14		1		
-Wis 	13		1		12		1		
+Int 	15		2		14		1		.
+Wis 	13		1		12		1		.
 Cha 	19		4		17		1		1
-Proficiencies
+= Proficiencies
 Level bonus
 Saving throws
 Skills	(warlock) Arcana, Investigation, (artisan) Insight, Persuasion
-Weapons	hammer
-Tools
-Languages
+Weapons	simple weapons
+Tools	cobbler's tools
+Armor	light armor
 
 Background	Guild Artisan: Cobbler
 Languages	Common, (human) Dwarven, (artisan) Gnomish
-Personality
-Ideal
-Bond
-Flaw
-
-Human Features
+Personality	Secretive, arrogant
+Ideal		To reach the moon
+Bond		Old one cult, brother back home, deceased friend
+Flaw		Risk all for knowledge
 
 Warlock Features
-Patron: Great Old One
-Boon: Tome filled with {Spare the dying, mending, light}
+Patron: Great Old One (Nyarlhotep)
+Boon: Tome. filled with {Spare the dying, mending, light}
+Awakened Mind	lvl 1
+Entropic Ward	lvl 6
 
 Known Spells
-
+* lvl 0
+Eldritch blast
+Minor Illusion
+True Strike
+(Spare the dying)	via Tome
+(mending)	via Tome
+(light) 	via Tome
+* lvl 1
+Arms of Hadar
+Charm Person
+Dissonant Whispers
+(Identify)		via Tome++
+(Unseen servant)	via Tome++
+* lvl 2
+Shatter
+Detect thoughts
+* lvl 3
+Hunger of Hadar
+Dispel Magic
 
 Invocations
 Book of Ancient Secrets, adds {Identify, Unseen-Servant} as rituals
+Repelling Blast
 
 Equipment
 (artisan)
@@ -49,8 +68,8 @@ Equipment
 (warlock)
 			arcane focus: rod
 nnlb 	0	hammer (simple weapon)
---- 	0	scholar pack (itemized next)
 nnlb	0	Book of Shadows
+--- 	0	scholar pack (itemized next)
 (scholar pack)
 nnlb	0	backpack
 nnlb	0	book of lore
@@ -63,10 +82,11 @@ nnlb	0	small knife
 		45	studded leather armor (AC 12 + dex)
 7lb 	1	bedroll
 20lb	5	10 rations
-0		150	rare inks for Book of Shadows
+0		150	rare inks x3 for Book of Shadows
 2		2	2 scroll cases
 (treasure loot)
 potion of animal friendship
 oil of etherealness
 alchemy jug (fills with selected liquid)
-
+potion of invulnerablility
+Scroll of Plane shift (lvl 7)
