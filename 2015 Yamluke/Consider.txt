@@ -1,0 +1,26 @@
+
+= Invocations
+
+Agoniz blast	eltritch blast damage + CHA mod
+
+Mask of Faces	disguise self at will
+
+Sign Ill Omen	bestow curse, uses slot, needs long rest
+
+= Next spell (4th lvl)
+
+banishment, blight, dimension door, + dominate beast, + Evard’s black tentacles, hallucinatory terrain
+
++ clairvoyance, counterspell, fear, fly, major image, + sending
+
+cloud of daggers, Enthrall, Hold Person, Invisibility, Misty Step, + phantasmal force, suggestion
+
+= Feats
+
+Spell sniper	doubles range of attack spells, ranged ignore 1/2 & 3/4 cover, learn another cantrip of any class
+
+war caster	CON saves with advantage for concentration, somatic with weapon in hand, spell as opportunity attack
+
+magic initiate	lvl 1 spell once per long rest, 2 cantrips of class (cleric)
+
+inspiring leader	6 chars including me after 10min get temp hp: lvl + CHA modifier, renew target after short rest

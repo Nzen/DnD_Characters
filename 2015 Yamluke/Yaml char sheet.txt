@@ -2,7 +2,7 @@
 Yaml Cobb	Human; Warlock lvl 6
 
 Armor Class	13
-Hit points	33 (rolled 23; con bonus 10)
+Hit points	36 (rolled 23; con bonus 10) +3(lvl6)
 Speed	?
 initiative	+1
 
@@ -13,11 +13,11 @@ Con 	14		2		12		1		1
 Int 	15		2		14		1		.
 Wis 	13		1		12		1		.
 Cha 	19		4		17		1		1
+
 = Proficiencies
-Level bonus
-Saving throws
-Skills	(warlock) Arcana, Investigation, (artisan) Insight, Persuasion
-Weapons	simple weapons
+Saving	Cha, Wis
+Skills	(warlock) Arcana, Investigation (artisan) Insight, Persuasion
+Weapon	simple weapons
 Tools	cobbler's tools
 Armor	light armor
 
@@ -25,7 +25,7 @@ Background	Guild Artisan: Cobbler
 Languages	Common, (human) Dwarven, (artisan) Gnomish
 Personality	Secretive, arrogant
 Ideal		To reach the moon
-Bond		Old one cult, brother back home, deceased friend
+Bond		Old one cult, family back home, deceased friend
 Flaw		Risk all for knowledge
 
 Warlock Features
@@ -34,59 +34,73 @@ Boon: Tome. filled with {Spare the dying, mending, light}
 Awakened Mind	lvl 1
 Entropic Ward	lvl 6
 
+Invocations
+Book of Ancient 	adds {Identify, Unseen-Servant} as rituals; inscribable with other rituals of 1/2 level
+Repelling Blast 	10' push to eldritch blast
+Fiendish Vigor		false life at will, pegged at lvl 1, no M component
+
 Known Spells
 * lvl 0
-Eldritch blast
-Minor Illusion
-True Strike
-(Spare the dying)	via Tome
-(mending)	via Tome
-(light) 	via Tome
+Eldritch blast	120'
+Minor Illusion	30'
+True Strike 	30'
+(Spare the dying)	touch	via Tome
+(mending)	touch	via Tome
+(light) 	touch	via Tome
 * lvl 1
-Arms of Hadar
-Charm Person
-Dissonant Whispers
+Arms of Hadar	10' of self
+Charm Person	30'
+Dissonant Whispers	60'
 (Identify)		via Tome++
 (Unseen servant)	via Tome++
 * lvl 2
-Shatter
-Detect thoughts
+Shatter	60' & 10' sphere
+Detect thoughts	30'
 * lvl 3
-Hunger of Hadar
-Dispel Magic
-
-Invocations
-Book of Ancient Secrets, adds {Identify, Unseen-Servant} as rituals
-Repelling Blast
+Hunger of Hadar	150' & 20' sphere
+Dispel Magic	120'
 
 Equipment
 (artisan)
-5lb 	0	cobbler tools
-0		0	guild membership letter
-4lb 	0	traveler clothes
+5lb 	-	cobbler tools
+0		-	guild membership letter
+4lb 	-	traveler clothes
 0		-15 coin purse
 (warlock)
-			arcane focus: rod
-nnlb 	0	hammer (simple weapon)
-nnlb	0	Book of Shadows
---- 	0	scholar pack (itemized next)
+2lb 		arcane focus: rod
+2lb 	-	hammer (simple weapon)
+2lb 	-	dagger
+n/a 	-10 (sold leather armor)
+3lb 	-	Book of Shadows
+--- 	-	scholar pack (itemized next)
 (scholar pack)
-nnlb	0	backpack
-nnlb	0	book of lore
-nnlb	0	ink
-nnlb	0	ink pen
-nnlb	0	10 sheets of parchment
-nnlb	0	bag of sand (um what for?)
-nnlb	0	small knife
+5lb 	-	backpack (30 lb)
+5lb 	-	book of lore
+0		-	ink
+0		-	ink pen
+0		-	10 sheets of parchment
+1/4lb	-	little bag of sand (um what for?)
+1/4lb	-	small knife
 (bought)
-		45	studded leather armor (AC 12 + dex)
+13lb	45	studded leather armor (AC 12 + dex)
+3lb 	.5	common clothes
+2lb 	25	component pouch
 7lb 	1	bedroll
 20lb	5	10 rations
+3lb 	.5	blanket
+0		.1	soap, chalk
+5lb 	10	silk rope, 50'
+.5lb	.1	sack (30 lb)
+0		1	paper x5 sheets
 0		150	rare inks x3 for Book of Shadows
-2		2	2 scroll cases
+2lb		2	scroll case (holds 10 paper 5 parchment)
+1lb 	100 potion of healing x2
+1/4lb	?	different 'moonrocks' [trinkets]
 (treasure loot)
-potion of animal friendship
-oil of etherealness
-alchemy jug (fills with selected liquid)
-potion of invulnerablility
-Scroll of Plane shift (lvl 7)
+1/2lb		potion of animal friendship
+1/2lb		oil of etherealness
+1/2 ?		alchemy jug (fills with selected liquid)
+1/2lb		potion of invulnerablility
+0			Scroll of Plane shift (lvl 7)
+=====
+? lb	(capacity is 180 lb)
