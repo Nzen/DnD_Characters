@@ -1,0 +1,116 @@
+
+Octavia Lasombra Ursula Reyes Florit (nicknamed Octave), Warden Cadet
+Human; Ranger lvl 1
+
+Armor Class	16 (14 +2 dex)
+Hit points	10 (d10 base +0 con)
+Speed	?
+Initiative	+3
+Proficiency	+2
+
+Stat	Total	modify	rolled	human+	@lvl_
+Str 	12		1		11		1		.
+Dex 	17		1		16		1		.
+Con 	11		2		10		1		.
+Int 	10		2		09		1		.
+Wis 	13		1		12		1		.
+Cha 	11		4		10		1		.
+
+= Proficiencies
+Saving	str dex
+Skills	(ranger) survival athletic nature (noble) history persuasion
+Languages (human) Common Elvish (ranger) Giant (noble) Dwarvish
+Weapon	simple, martial
+Tools	(noble) game dice
+Armor	light, medium
+
+Background	Noble of Floritas (niece of the current Lady-Hidalgo Florit)
+Languages (human) Common (ranger) Giant
+Personality	Kind, ungenerous
+Ideal		Noblesse oblige
+Bond		Family, Heirloom
+Flaw		I cause my family shame
+
+Ranger Features
+Favored Enemy: Giants (advantage to track, recall info)
+Favored Terrain: Mountain
+
+Known Spells
+* lvl 1
+(@ lvl)
+
+
+Equipment
+: 42 gp 8 sp 2cp
+(ranger)
+<130 gp>
+scale mail suit
+longbow [d8 150,600]
+arrows x60
+short sword x2 [d6]
+explorer pack
+{
+ backpack
+ bedroll
+ mess kit
+ tinderbox
+ 10 torches
+ 10 day rations
+ waterskin
+ 50' rope
+}
+(noble)
+fine clothes
+signet ring
+scroll of pedigree
+<25 gp in purse>
+dice set
+(trinket roll)
+indecipherable treasure map
+(starting shopping)
+hand axe [d6 20,60]
+arrows x60
+light hammer [d4 20,60]
+common clothes
+perfume
+potion of healing [2d4+2]
+lock
+block and tackle
+chalk
+sealing wax
+manacles
+quiver
+component pouch
+soap
+net x2 [restrains dc10str/hp5slash 5,15]
+paper x5
+abacus
+sling [d4 30,120]
+sling bullets x40
+oil 1pt
+sack x2
+whistle
+10' chain
+(loot)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
