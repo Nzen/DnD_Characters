@@ -1,9 +1,9 @@
 
 Octavia Lasombra Ursula Reyes Florit (nicknamed Octave), Warden Cadet
-Human; Ranger lvl 1
+Human; Ranger; lvl 2; Neutral Good
 
 Armor Class	16 (14 +2 dex)
-Hit points	10 (d10 base +0 con)
+Hit points	13 (d10 base +0 con ; lvl2 +3)
 Speed	?
 Initiative	+3
 Proficiency	+2
@@ -28,17 +28,20 @@ Background	Noble of Floritas (niece of the current Lady-Hidalgo Florit)
 Languages (human) Common (ranger) Giant
 Personality	Kind, ungenerous
 Ideal		Noblesse oblige
-Bond		Family, Heirloom
+Bond		Family, Heirloom, Stone Giants of our area
 Flaw		I cause my family shame
 
 Ranger Features
 Favored Enemy: Giants (advantage to track, recall info)
 Favored Terrain: Mountain
+Fighting Style: two weapons
 
 Known Spells
 * lvl 1
+(@ lvl1)
+goodberry (x10 +1hp, one is a whole action)
+hunter's mark (+1d6 damage, advantage to find, concentration, line of sight)
 (@ lvl)
-
 
 Equipment
 : 42 gp 8 sp 2cp
